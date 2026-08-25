@@ -1,4 +1,5 @@
 # End-to-End Batch Data Pipeline
+End-to-end batch data pipeline using PySpark, Apache Airflow, MinIO, Parquet and Great Expectations
 
 ## 📌 Overview
 This project implements an end-to-end batch data pipeline that takes raw, messy CSV data and transforms it into clean, validated data ready for analytics.
